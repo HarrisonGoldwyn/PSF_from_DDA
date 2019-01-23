@@ -1,0 +1,14 @@
+ DDSCAT --- DDSCAT 7.1.0 [10.03.03]   
+ TARGET --- Sphere shape                                                      
+ GPFAFT --- method of solution 
+ LATTDR --- prescription for polarizabilities
+ FROM_FILE --- shape 
+   4743 = NAT0 = number of dipoles
+ /usr/lusers/clairew4/dielectrics/diel/au_drude_0K.tab       
+   0.000   0.000 = beta_min, beta_max ;  NBETA = 1
+   0.000   0.000 = theta_min, theta_max; NTHETA= 1
+   0.000   0.000 = phi_min, phi_max   ;   NPHI = 1
+ Results averaged over    1 target orientations
+                   and  1 incident polarizations
+   aeff       wave      Q_pha
+1.0400E-02 6.1500E-01 -7.8950E+00

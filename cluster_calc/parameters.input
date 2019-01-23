@@ -1,0 +1,14 @@
+# Input paramaters for the thermal pipeline 
+# ddscat.par
+dip_space: 1
+
+# ddscat.par_new
+mem_allo: 45 300 300
+in_freq: 0.615
+
+# parameters.yaml
+number: 5000
+f_len: 0.1  
+num_ape: 0.999
+p_det_wid: 2000
+pixels: 200

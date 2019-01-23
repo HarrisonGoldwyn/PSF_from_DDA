@@ -1,0 +1,9 @@
+ DDSCAT --- DDSCAT 7.1.0 [10.03.03]   
+ TARGET --- Sphere shape                                                      
+ GPFAFT --- method of solution 
+ LATTDR --- prescription for polarizabilities
+ FROM_FILE --- shape 
+   4743 = NAT0 = number of dipoles
+ /usr/lusers/clairew4/dielectrics/diel/au_drude_0K.tab       
+ wave(um)   f(cm-1)     Re(m)     Im(m)    Re(eps)   Im(eps)
+ 6.1500E-01  1.6260E+04  6.608E-02 4.230E+00-1.789E+01 5.591E-01

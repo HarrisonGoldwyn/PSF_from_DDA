@@ -1,0 +1,17 @@
+lens_points:
+  number: 5000
+
+ddfield:
+  dipole_spacing: 1  ## in nm
+
+optics:
+  focal_length: 0.1  ## in cm, 0.1cm = 1 mm = 1000 um
+  numerical_aperture: 0.999 ## unitless
+  photo_detector_width: 2000  ## in nm
+  pixels: !!int 200  ## pixels per dimension of detector
+
+system:
+  drive_wavelength: 615  ## in nm, as long as 1240/drive_wavelength ~ eV
+
+plot:
+  to_plot: True

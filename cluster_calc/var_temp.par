@@ -1,0 +1,18 @@
+num_k: 2
+k_out: 0.3
+k_in: 314
+lambda: 1.0880e-06
+n_m: 1.473
+I_0: 1e+9
+unit: 10.0
+
+d: 1
+x_min:   -14
+x_max:  20
+y_min:  -45
+y_max:  35
+z_min:  -19
+z_max:  19
+
+x_plane_min: -14
+x_plane_max: 20
